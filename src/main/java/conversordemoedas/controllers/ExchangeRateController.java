@@ -105,7 +105,7 @@ public class ExchangeRateController {
 
     }
 
-    private void showConversionHistory() {
+    public void showConversionHistory() {
 
         System.out.println();
         System.out.println("Histórico de conversões:");
