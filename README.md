@@ -38,3 +38,18 @@ O projeto segue uma organização em pacotes para separar as funcionalidades e m
 - **Java 11 ou superior**
 - **IntelliJ IDEA** (opcional, mas recomendado para desenvolvimento)
 - **Conexão com a internet** para acessar a API de taxas de câmbio
+- 
+## Observações 📌 
+
+Este projeto é um challenge proposto pelo programa Oracle Next Generation (ONE), que tem como objetivo avaliar conhecimentos em Java, orientação a objetos e consumo de API.
+
+## Desenvolvido por:
+
+<div align="center">
+<img src="images/octocat-1730031841473.png" alt="Octocat" width="350" />
+<img src="images/Badge-Conversor.png" alt="badge" width="200" />
+
+
+### Diego Sousa ☕︎
+
+</div>
